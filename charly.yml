@@ -9,7 +9,7 @@ songsee:
             without an audio fixture: the binary lands at ~/go/bin/songsee, and
             `songsee --version` execs the kong CLI and exits 0.
         require:
-            - '@github.com/opencharly/layer-golang:v2026.239.1614'
+            - '@github.com/opencharly/layer-golang:v2026.272.0137'
         env:
             GOPATH: "~/go"
         path_append:
