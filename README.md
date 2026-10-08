@@ -52,6 +52,5 @@ audio fixture.
 
 - Owning skill: `/charly-tools:songsee`
 - Dependency: `/charly-coder:golang`
-- Bundle: `/charly-openclaw:openclaw-full`
 - [`opencharly/charly`](https://github.com/opencharly/charly) — the charly CLI and image builder
 - [`opencharly/opencharly`](https://github.com/opencharly/opencharly) — the umbrella
